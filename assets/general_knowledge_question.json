@@ -1,0 +1,58 @@
+{
+  "quiz" : [
+    {
+      "quizOptions" : [
+        {
+          "question": "The architect in Ajanta Caves were made by which dynasty?",
+          "answer" : "Satavahana",
+          "options": [
+            "Maurya",
+            "Gupta",
+            "Kanva",
+            "Satavahana"
+          ]
+        },
+        {
+          "question": "To whom should president tender his resignation if he/she wants to resign from his office?",
+          "answer" : "The vice president",
+          "options": [
+            "Prime minister",
+            "The vice president",
+            "The speaker",
+            "The chief justice of India"
+          ]
+        },
+        {
+            "question": "The authorization of the withdrawl of fund from the consolidated fund of India must come from?",
+            "answer" : "The parliament of india",
+            "options": [
+              "The parliament of india",
+              "Prime minister",
+              "President",
+              "The union minister"
+            ]
+          },
+          {
+            "question": "What do the 73rd and 74th amendment act ensure?",
+            "answer" : "One-third of seats are designated for women in Panchayat and municipalities",
+            "options": [
+              "One-third of seats are designated for economically weaker in Panchayat and municipalities",
+              "One-third of seats are designated for children in Panchayat and municipalities",
+              "One-third of seats are designated for women in Panchayat and municipalities",
+              "One-third of seats are designated for backward classes in Panchayat and municipalities"
+            ]
+          },
+          {
+            "question": "Article 239AA of India confers special status to which territories?",
+            "answer" : "NCT of Delhi",
+            "options": [
+              "Puducherry",
+              "Daman and diu",
+              "Jammu and kashmir",
+              "NCT of Delhi"
+            ]
+          }
+      ]
+    }
+  ]
+}

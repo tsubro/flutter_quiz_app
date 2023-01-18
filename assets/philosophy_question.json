@@ -1,0 +1,78 @@
+{
+  "quiz" : [
+    {
+      "quizOptions" : [
+        {
+          "question": "The word” philosophy” is derived from which language?",
+          "answer" : "Greek",
+          "options": [
+            "English",
+            "Latin",
+            "Greek",
+            "Italian"
+          ]
+        },
+        {
+          "question": "How many types of Philosophy are there?",
+          "answer" : "Four",
+          "options": [
+            "Three",
+            "Four",
+            "Five",
+            "Six"
+          ]
+        },
+        {
+            "question": "Who is the father of philosophy",
+            "answer" : "Socrates",
+            "options": [
+              "Aristotle",
+              "Plato",
+              "Thales",
+              "Socrates"
+            ]
+          },
+          {
+            "question": "Who said that 'an unexamined life is not worth living'?",
+            "answer" : "Socrates",
+            "options": [
+              "Socrates",
+              "Anximander",
+              "Palto",
+              "Aristotle"
+            ]
+          },
+          {
+            "question": "Who believed in the immorality, transmigration and reincarnation of souls?",
+            "answer" : "Pythagoras",
+            "options": [
+              "Lionians",
+              "Atomists",
+              "Pythagoras",
+              "Eleatic"
+            ]
+          },
+          {
+            "question": "Who was concerned about public speaking, rather than thinking well?",
+            "answer" : "Sophists",
+            "options": [
+              "Materialists",
+              "Idealists",
+              "Rationalists",
+              "Sophists"
+            ]
+          },
+          {
+            "question": "An uncaused cause according to Aristotle is called?",
+            "answer" : "The prime mover",
+            "options": [
+              "Potentiality",
+              "The prime mover",
+              "Actuality",
+              "Atom"
+            ]
+          }
+      ]
+    }
+  ]
+}

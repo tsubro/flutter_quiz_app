@@ -1,0 +1,196 @@
+{
+  "quiz" : [
+    {
+      "quizOptions" : [
+        {
+          "question": "Her thinking leans ____ democracy.",
+          "answer" : "Towards",
+          "options": [
+            "With",
+            "Towards",
+            "For",
+            "Of"
+          ]
+        },
+        {
+          "question": "He got too tired _____ over work.",
+          "answer" : "Because of",
+          "options": [
+            "Because of",
+            "Because off",
+            "On",
+            "For"
+          ]
+        },
+        {
+            "question": "_____ his principles, he has to be very careful",
+            "answer" : "With regard to",
+            "options": [
+              "With regard on",
+              "With regard of",
+              "With regard to",
+              "With regard for"
+            ]
+          },
+          {
+            "question": "Building has been built _____ the new plan.",
+            "answer" : "In accordance with",
+            "options": [
+              "Accordance to",
+              "For",
+              "About",
+              "In accordance with"
+            ]
+          },
+          {
+            "question": "He crossed the broken bridge ____ warning.",
+            "answer" : "In spite of",
+            "options": [
+              "On",
+              "In spite off",
+              "In spite of",
+              "About"
+            ]
+          },
+          {
+            "question": "The train ____ as fast as the bus.",
+            "answer" : "Moves",
+            "options": [
+              "Went",
+              "Going",
+              "Moves",
+              "Running"
+            ]
+          }
+      ]
+    },
+    {
+      "quizOptions" : [
+        {
+          "question": "Her thinking leans ____ democracy.",
+          "answer" : "Towards",
+          "options": [
+            "With",
+            "Towards",
+            "For",
+            "Of"
+          ]
+        },
+        {
+          "question": "He got too tired _____ over work.",
+          "answer" : "Because of",
+          "options": [
+            "Because of",
+            "Because off",
+            "On",
+            "For"
+          ]
+        },
+        {
+            "question": "_____ his principles, he has to be very careful",
+            "answer" : "With regard to",
+            "options": [
+              "With regard on",
+              "With regard of",
+              "With regard to",
+              "With regard for"
+            ]
+          },
+          {
+            "question": "Building has been built _____ the new plan.",
+            "answer" : "In accordance with",
+            "options": [
+              "Accordance to",
+              "For",
+              "About",
+              "In accordance with"
+            ]
+          },
+          {
+            "question": "He crossed the broken bridge ____ warning.",
+            "answer" : "In spite of",
+            "options": [
+              "On",
+              "In spite off",
+              "In spite of",
+              "About"
+            ]
+          },
+          {
+            "question": "The train ____ as fast as the bus.",
+            "answer" : "Moves",
+            "options": [
+              "Went",
+              "Going",
+              "Moves",
+              "Running"
+            ]
+          }
+      ]
+    },
+    {
+      "quizOptions" : [
+        {
+          "question": "Her thinking leans ____ democracy.",
+          "answer" : "Towards",
+          "options": [
+            "With",
+            "Towards",
+            "For",
+            "Of"
+          ]
+        },
+        {
+          "question": "He got too tired _____ over work.",
+          "answer" : "Because of",
+          "options": [
+            "Because of",
+            "Because off",
+            "On",
+            "For"
+          ]
+        },
+        {
+            "question": "_____ his principles, he has to be very careful",
+            "answer" : "With regard to",
+            "options": [
+              "With regard on",
+              "With regard of",
+              "With regard to",
+              "With regard for"
+            ]
+          },
+          {
+            "question": "Building has been built _____ the new plan.",
+            "answer" : "In accordance with",
+            "options": [
+              "Accordance to",
+              "For",
+              "About",
+              "In accordance with"
+            ]
+          },
+          {
+            "question": "He crossed the broken bridge ____ warning.",
+            "answer" : "In spite of",
+            "options": [
+              "On",
+              "In spite off",
+              "In spite of",
+              "About"
+            ]
+          },
+          {
+            "question": "The train ____ as fast as the bus.",
+            "answer" : "Moves",
+            "options": [
+              "Went",
+              "Going",
+              "Moves",
+              "Running"
+            ]
+          }
+      ]
+    }
+  ]
+}

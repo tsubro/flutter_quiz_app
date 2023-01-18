@@ -1,0 +1,132 @@
+{
+  "quiz" : [
+    {
+      "quizOptions" : [
+        {
+          "question": "During the First World War, which country signed the Peace Treaty (1917) with Germany?",
+          "answer" : "Russia",
+          "options": [
+            "England",
+            "USA",
+            "Russia",
+            "Austria"
+          ]
+        },
+        {
+          "question": "When did United Kingdom declared war on Germany which lead to World War II?",
+          "answer" : "3rd September 1939",
+          "options": [
+            "4th April 1939",
+            "18th August 1939",
+            "28th August 1939",
+            "3rd September 1939"
+          ]
+        },
+        {
+            "question": "In which year, America joined the Second World War?",
+            "answer" : "1941",
+            "options": [
+              "1939",
+              "1940",
+              "1941",
+              "1942"
+            ]
+          },
+          {
+            "question": "When was ancient Rome founded?",
+            "answer" : "753 BC",
+            "options": [
+              "776 BC",
+              "753 BC",
+              "778 BC",
+              "746 BC"
+            ]
+          },
+          {
+            "question": "When was NATO signed?",
+            "answer" : "1949",
+            "options": [
+              "1949",
+              "1990",
+              "1948",
+              "1950"
+            ]
+          },
+          {
+            "question": "In which year, Alexander the Great become the king of Macedonia?",
+            "answer" : "336 BC",
+            "options": [
+              "328 BC",
+              "326 BC",
+              "336 BC",
+              "338 BC"
+            ]
+          }
+      ]
+    }
+    ,{
+      "quizOptions" : [
+        {
+          "question": "During the First World War, which country signed the Peace Treaty (1917) with Germany?",
+          "answer" : "Russia",
+          "options": [
+            "England",
+            "USA",
+            "Russia",
+            "Austria"
+          ]
+        },
+        {
+          "question": "When did United Kingdom declared war on Germany which lead to World War II?",
+          "answer" : "3rd September 1939",
+          "options": [
+            "4th April 1939",
+            "18th August 1939",
+            "28th August 1939",
+            "3rd September 1939"
+          ]
+        },
+        {
+            "question": "In which year, America joined the Second World War?",
+            "answer" : "1941",
+            "options": [
+              "1939",
+              "1940",
+              "1941",
+              "1942"
+            ]
+          },
+          {
+            "question": "When was ancient Rome founded?",
+            "answer" : "753 BC",
+            "options": [
+              "776 BC",
+              "753 BC",
+              "778 BC",
+              "746 BC"
+            ]
+          },
+          {
+            "question": "When was NATO signed?",
+            "answer" : "1949",
+            "options": [
+              "1949",
+              "1990",
+              "1948",
+              "1950"
+            ]
+          },
+          {
+            "question": "In which year, Alexander the Great become the king of Macedonia?",
+            "answer" : "336 BC",
+            "options": [
+              "328 BC",
+              "326 BC",
+              "336 BC",
+              "338 BC"
+            ]
+          }
+      ]
+    }
+  ]
+}
